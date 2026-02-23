@@ -7,8 +7,7 @@ Small static web page in Bulgarian that explains and demonstrates the **HTML5 Ge
 - `referat.html` – main article page (Bulgarian) with explanations, code snippets and references
 - `css/` – styles for the page
 - `javascript/` – client‑side scripts (if enabled in later versions)
-- `62585.pptx` – presentation slides for the seminar
-- `62585_invite.png` – invitation / visual asset
+- `presentation.pptx` – presentation slides for the seminar
 
 ### Topics covered
 
